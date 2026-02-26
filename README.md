@@ -4,7 +4,7 @@
 
 A lightweight, secure, **browser-only** PDF text extraction library for React, tailored for credit card statements and financial documents. 
 
-**Powered by [DeepFi](https://deepfi.ar)**
+**Powered by [DeepFi](https://deepfi-control.com)**
 
 ## Why we built this
 
@@ -56,7 +56,7 @@ const text = await extractTextFromPDF(file, "mypassword123");
 
 ## How It Works in DeepFi
 
-At [DeepFi](https://deepfi.ar) we use this library to locally extract your credit card statements, and then we send **only the raw text** to our backend LLM (Groq API) for categorization and advice. Your full PDF file and PII data are never uploaded anywhere.
+At [DeepFi-Control](https://deepfi-control.com) we use this library to locally extract your credit card statements, and then we send **only the raw text** to our backend LLM (Groq API) for categorization and advice. Your full PDF file and PII data are never uploaded anywhere.
 
 ## Open Source
 
