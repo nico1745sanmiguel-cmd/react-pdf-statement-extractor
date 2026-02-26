@@ -1,0 +1,21 @@
+{
+  "name": "react-pdf-statement-extractor",
+  "version": "1.0.0",
+  "description": "Secure, client-side PDF text extraction library for React, tailored for credit card statements. Open Core of DeepFi.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "pdf",
+    "extract",
+    "statement",
+    "finanzas",
+    "client-side",
+    "secure"
+  ],
+  "author": "DeepFi",
+  "license": "MIT"
+}
